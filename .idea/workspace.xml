@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4501e49a-e753-4caa-aa7a-cbaca367507c" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/books/BooksTheory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/exercises_01/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/exercises_02/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/fundamentals/Fundamentals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/Tutorials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionPrimitivosAPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionPrimitivosAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionStringAPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Primitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFloatConstantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericosJOptionPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericosTerminalScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/TipoDatoVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/TiposPrimitivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +60,76 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "proofread",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.Main" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cl.javamastery64.tutorials.theory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrimitivosByte">
+    <configuration name="ConversionPrimitivosAPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.ConversionPrimitivosAPrimitivos" />
+      <module name="chapter01_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionPrimitivosAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.ConversionPrimitivosAString" />
+      <module name="chapter01_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionStringAPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.ConversionStringAPrimitivos" />
+      <module name="chapter01_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitivosByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.PrimitivosByte" />
+      <module name="chapter01_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemasNumericosTerminalScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.SistemasNumericosTerminalScanner" />
       <module name="chapter01_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -70,7 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PrimitivosByte" />
+        <item itemvalue="Application.ConversionPrimitivosAPrimitivos" />
+        <item itemvalue="Application.ConversionPrimitivosAString" />
+        <item itemvalue="Application.ConversionStringAPrimitivos" />
+        <item itemvalue="Application.SistemasNumericosTerminalScanner" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684132297240</updated>
-      <workItem from="1684132298235" duration="1508000" />
+      <workItem from="1684132298235" duration="15888000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684132346962</created>

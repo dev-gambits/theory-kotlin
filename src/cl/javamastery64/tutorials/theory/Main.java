@@ -38,5 +38,8 @@ public class Main {
         System.out.println("__233456_23_12234_234HashMap = " + __233456_23_12234_234HashMap);
 
 
+        long $$$$__1234$$$$________340$$;
+
+
     }
 }
