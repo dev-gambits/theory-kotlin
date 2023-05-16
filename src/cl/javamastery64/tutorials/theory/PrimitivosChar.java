@@ -61,6 +61,7 @@ public class PrimitivosChar {
         System.out.println("retrocesoUnicode="+ simboloVar1 + retroceso+retroceso+retroceso+retroceso+retroceso+retroceso);
         System.out.println("retornoCarro = " + System.getProperty("line.separador") + retornoCarro);
         System.out.println("retornoCarro = " + System.lineSeparator() + retornoCarro);
+        System.out.println("System.console() :  "+System.console());
 
     }
 }

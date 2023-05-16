@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4501e49a-e753-4caa-aa7a-cbaca367507c" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionPrimitivosAPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionPrimitivosAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionStringAPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Primitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosByte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFloat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFloatConstantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosLong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosShort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericosJOptionPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericosTerminalScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/TipoDatoVar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +53,7 @@
       <recent name="cl.javamastery64.tutorials.theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimitivosByte">
+  <component name="RunManager" selected="Application.PrimitivosChar">
     <configuration name="ConversionPrimitivosAPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.ConversionPrimitivosAPrimitivos" />
       <module name="chapter01_fundamentals" />
@@ -128,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemasNumericosTerminalScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.SistemasNumericosTerminalScanner" />
+    <configuration name="PrimitivosChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.PrimitivosChar" />
       <module name="chapter01_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivosChar" />
         <item itemvalue="Application.PrimitivosByte" />
         <item itemvalue="Application.ConversionPrimitivosAPrimitivos" />
         <item itemvalue="Application.ConversionPrimitivosAString" />
         <item itemvalue="Application.ConversionStringAPrimitivos" />
-        <item itemvalue="Application.SistemasNumericosTerminalScanner" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684132297240</updated>
-      <workItem from="1684132298235" duration="15888000" />
+      <workItem from="1684132298235" duration="16570000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684132346962</created>
