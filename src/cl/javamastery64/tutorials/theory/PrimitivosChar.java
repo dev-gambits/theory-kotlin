@@ -63,6 +63,10 @@ public class PrimitivosChar {
         System.out.println("retornoCarro = " + System.lineSeparator() + retornoCarro);
         System.out.println("System.console() :  "+System.console());
 
+
+        System.out.println("retornoCarro = " + System.lineSeparator() + retornoCarro);
+        System.out.println("System.console() :  "+System.console());
+
     }
 }
 
