@@ -2,3 +2,7 @@
 
 # Section 2: Variables 
 ### Apuntes
+
+
+# Section 3: Cadenas de String
+### Apuntes
