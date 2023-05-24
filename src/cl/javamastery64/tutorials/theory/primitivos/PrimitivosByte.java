@@ -1,8 +1,8 @@
-package cl.javamastery64.tutorials.theory;
+package cl.javamastery64.tutorials.theory.primitivos;
 
 /**
  * Declaración de variables PRIMITVOS  BYTE
- * Entero mas pequeño que esxiste. Rango  -128 y 127
+ * Entero más pequeño que existe. Rango  -128 y 127
  * @version 1.14 02-03-2016
  * @author Emmanuel Nieto
  */

@@ -1,4 +1,4 @@
-package cl.javamastery64.tutorials.theory;
+package cl.javamastery64.tutorials.theory.primitivos;
 
 /**
  * Conversion de tipos  de Primitivos a String

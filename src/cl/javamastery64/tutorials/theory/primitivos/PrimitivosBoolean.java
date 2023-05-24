@@ -1,4 +1,4 @@
-package cl.javamastery64.tutorials.theory;
+package cl.javamastery64.tutorials.theory.primitivos;
 
 /**
  * Declaración de variables PRIMITVOS  boolean

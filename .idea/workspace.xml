@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4501e49a-e753-4caa-aa7a-cbaca367507c" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionPrimitivosAPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/ConversionPrimitivosAPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionPrimitivosAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/ConversionPrimitivosAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/ConversionStringAPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/ConversionStringAPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/Primitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/Primitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosByte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosByte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosFDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFloat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosFloat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosFloatConstantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosFloatConstantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosLong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosLong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/PrimitivosShort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/SistemasNumericos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericosJOptionPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/SistemasNumericosJOptionPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/SistemasNumericosTerminalScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/SistemasNumericosTerminalScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/TipoDatoVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/TipoDatoVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/primitivos/TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +74,7 @@
       <recent name="cl.javamastery64.tutorials.theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploStingInmutable">
+  <component name="RunManager" selected="Application.PrimitivosByte">
     <configuration name="EjemploStingConcatenacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.string.EjemploStingConcatenacion" />
       <module name="chapter01_fundamentals" />
@@ -94,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitivosChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.PrimitivosChar" />
+    <configuration name="PrimitivosByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.primitivos.PrimitivosByte" />
       <module name="chapter01_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.primitivos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivosByte" />
         <item itemvalue="Application.EjemploStingInmutable" />
         <item itemvalue="Application.EjemploStingConcatenacion" />
         <item itemvalue="Application.EjemploString" />
         <item itemvalue="Application.StringTheory" />
-        <item itemvalue="Application.PrimitivosChar" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +163,7 @@
       <workItem from="1684350625151" duration="1822000" />
       <workItem from="1684543418536" duration="2402000" />
       <workItem from="1684726216112" duration="311000" />
-      <workItem from="1684731382277" duration="6057000" />
+      <workItem from="1684731382277" duration="7309000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684132346962</created>
@@ -166,7 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684891116978</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1684891365931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684891365931</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1684891376594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684891376594</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,15 +1,16 @@
-package cl.javamastery64.tutorials.theory;
+package cl.javamastery64.tutorials.theory.primitivos;
 
 /**
- * Declaración de variables var
+ * Declaración de variables PRIMITVOS int
+ *  Entero mediano  . Rango  -2147483648 a 2147483647
  * @version 1.14 02-03-2016
  * @author Emmanuel Nieto
  */
-public class TipoDatoVar {
+public class PrimitivosInt {
     public static void main(String[] args) {
 
-        var numeroInt = 2147483647;
-        var numeroInt1 = -2147483648;
+        int numeroInt = 2147483647;
+        int numeroInt1 = -2147483648;
         //short numeroByte2 = 32769;
 
         System.out.println("Tipo primitivo: int");
