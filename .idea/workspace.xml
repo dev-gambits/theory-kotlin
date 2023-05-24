@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4501e49a-e753-4caa-aa7a-cbaca367507c" name="Changes" comment="first commit">
+    <list default="true" id="4501e49a-e753-4caa-aa7a-cbaca367507c" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/string/EjemploStingConcatenacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/string/EjemploStingInmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/string/EjemploString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/string/StringTheory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl/javamastery64/tutorials/theory/PrimitivosChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +54,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cl.javamastery64.tutorials.theory.string" />
       <recent name="cl.javamastery64.tutorials.theory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimitivosChar">
-    <configuration name="ConversionPrimitivosAPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.ConversionPrimitivosAPrimitivos" />
+  <component name="RunManager" selected="Application.EjemploStingInmutable">
+    <configuration name="EjemploStingConcatenacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.string.EjemploStingConcatenacion" />
       <module name="chapter01_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversionPrimitivosAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.ConversionPrimitivosAString" />
+    <configuration name="EjemploStingInmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.string.EjemploStingInmutable" />
       <module name="chapter01_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,25 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversionStringAPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.ConversionStringAPrimitivos" />
+    <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.string.EjemploString" />
       <module name="chapter01_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimitivosByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.PrimitivosByte" />
-      <module name="chapter01_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.*" />
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTheory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.javamastery64.tutorials.theory.string.StringTheory" />
+      <module name="chapter01_fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.javamastery64.tutorials.theory.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploStingInmutable" />
+        <item itemvalue="Application.EjemploStingConcatenacion" />
+        <item itemvalue="Application.EjemploString" />
+        <item itemvalue="Application.StringTheory" />
         <item itemvalue="Application.PrimitivosChar" />
-        <item itemvalue="Application.PrimitivosByte" />
-        <item itemvalue="Application.ConversionPrimitivosAPrimitivos" />
-        <item itemvalue="Application.ConversionPrimitivosAString" />
-        <item itemvalue="Application.ConversionStringAPrimitivos" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +145,9 @@
       <workItem from="1684132298235" duration="17169000" />
       <workItem from="1684217354854" duration="910000" />
       <workItem from="1684350625151" duration="1822000" />
-      <workItem from="1684543418536" duration="1075000" />
+      <workItem from="1684543418536" duration="2402000" />
+      <workItem from="1684726216112" duration="311000" />
+      <workItem from="1684731382277" duration="5709000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684132346962</created>
@@ -150,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684132346962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1684553975119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684553975119</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +172,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
